@@ -1,0 +1,7 @@
+# LaTex log files
+*.aux
+*.bbl
+*.out
+*.log
+*.pdf
+
